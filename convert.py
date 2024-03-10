@@ -6,8 +6,13 @@ lut = {}
 lut["D00"] = 0
 lut["D10"] = 1
 lut["D20"] = 2
-lut["D40"] = 3
-
+lut["D30"] = 3
+lut["D40"] = 4
+lut["D50"] = 5
+lut["D60"] = 6
+lut["D70"] = 7
+lut["D80"] = 8
+lut["D90"] = 9
 
 def convert_coordinates(size, box):
     dw = 1.0 / size[0]
