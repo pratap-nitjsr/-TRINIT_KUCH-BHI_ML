@@ -1,5 +1,8 @@
 # -TRINIT_KUCH-BHI_ML
 
+# -VIDEO LINK
+https://drive.google.com/file/d/15z7N795oB8hj91Zqswxo0688mfcVhi-C/view?usp=sharing
+
 # GRAPHS 
 ![Screenshot_20240310_070002](https://github.com/pratap-nitjsr/-TRINIT_KUCH-BHI_ML/assets/127110382/5c7a35dc-78b0-4e28-8416-bf02c4a28bf8)
 
